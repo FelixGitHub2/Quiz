@@ -1,0 +1,77 @@
+body
+{
+    background-color: grey;
+    font-size: 20px;
+    background-size: cover;
+}
+
+
+form
+{
+    width: 70%;
+    margin: auto;
+    background-color: white;
+    padding: 20px;
+}
+ 
+.dkfont
+{
+    margin-left: 30%;
+}
+
+.awnsers
+{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+h1
+{
+    text-align: center;
+    
+}
+
+.main-grid
+{
+    display: grid;
+    grid-template-columns: 6fr 4fr 3fr;
+    gap: 5px;
+}
+
+.text-grid
+{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 900px;
+}
+
+h2
+{
+    text-size-adjust: 85%;
+    margin-left: 35%;
+    color: red;
+}
+
+h3
+{
+    color: green;
+    font-size: xx-large;
+    margin-top: 10%;
+}
+
+
+.goldbanana
+{
+    margin-left: 17%;
+}
+
+.bananaimg
+{
+    margin-top: 13%;
+}
+
+.dkdancing
+{
+    margin-top: 25%;
+    
+}

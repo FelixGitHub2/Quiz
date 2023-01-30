@@ -1,0 +1,68 @@
+body
+{
+    background-color: grey;
+    font-size: 20px;
+    background-size: cover;   
+}
+
+
+form
+{
+    width: 70%;
+    margin: auto;
+    background-color: lightgray;
+    padding: 20px;
+    border-radius: 50px;
+}
+
+.awnsers
+{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+h1
+{
+    text-align: center;
+    
+}
+
+.main-grid
+{
+    display: grid;
+    grid-template-columns: 6fr 3fr;
+    gap: 5px;
+}
+
+.text-grid
+{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 900px;
+}
+
+h2
+{
+ 
+    text-size-adjust: 85%;
+
+}
+
+.send-button
+{
+    margin-top: 10%;
+    margin-left: 44%;
+}
+p{
+    text-align: center;
+}
+a
+{
+    text-decoration: none;
+    color: black;
+}
+
+.normalfont
+{
+    margin-left: 43%;
+}
